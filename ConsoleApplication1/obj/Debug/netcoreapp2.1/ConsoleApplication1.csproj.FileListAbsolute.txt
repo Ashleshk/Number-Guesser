@@ -1,0 +1,22 @@
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.deps.json
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.json
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.dev.json
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.dll
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.pdb
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csprojAssemblyReference.cache
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csproj.CoreCompileInputs.cache
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfoInputs.cache
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfo.cs
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.dll
+I:\PROGRAM\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.pdb
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.deps.json
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.json
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.runtimeconfig.dev.json
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.dll
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\bin\Debug\netcoreapp2.1\ConsoleApplication1.pdb
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csprojAssemblyReference.cache
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.csproj.CoreCompileInputs.cache
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfoInputs.cache
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.AssemblyInfo.cs
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.dll
+I:\PROGRAM\c#\Number Guesser\ConsoleApplication1\obj\Debug\netcoreapp2.1\ConsoleApplication1.pdb
