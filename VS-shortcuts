@@ -1,0 +1,75 @@
+Copy/Paste
+Key Combination	Description
+Ctrl + Z	Undo
+Ctrl + Shift + Z	Redo
+Ctrl + X	Cut (and entire line)
+Ctrl + C	Copy
+Ctrl + V	Paste
+Text Manipulation
+Key Combination	Description
+Ctrl + Click	Select current word
+Alt + Drag	Select area for multi-line edit
+Alt + Up/Down	Move lines
+Search & Navigate
+Key Combination	Description
+F12	Go to reference
+Ctrl + T	Go to...
+Ctrl + ;	Search Solution Explorer
+Ctrl + Tab	Cycle open documents
+Ctrl + -	Step backwards in cursor position
+Ctrl + Shift + -	Step forwards in cursor position
+Ctrl + Shift + F	Find All
+Ctrl + K + K	Set/Remove Bookmark
+Ctrl + K + N	Next Bookmark
+Ctrl + K + P	Previous Bookmark
+Environment
+Key Combination	Description
+Alt + Shift + Enter	Full Screen
+Coding
+Key Combination	Description
+Ctrl + Shift + B	Build
+Ctrl + .	Auto-complete suggestions
+Ctrl + R + R	Rename variable/value
+Ctrl + K + C	Comment selected text
+Ctrl + K + U	Uncomment selected text
+Ctrl + M + M	Expand/Collapse code
+Ctrl + M + O	Collapse code to definition level
+Ctrl + Q	Quick Launch
+Debugging
+Key Combination	Description
+F5	Build and Run
+F10	Step Over
+F11	Step Into
+Key Bindings
+Install AutoHotKeys from https://autohotkey.com
+
+Press Win + R to open Run.. dialog. Type shell:startup to open the Startup folder.
+
+Inside that folder create a file called shortcuts.ahk and it's contents as follows.
+
+#q::
+	Send, !{F4}
+Return
+
+#w::
+	Send, ^{F4}
+Return
+Then this file will run every time your computer starts. As this is the first time, save the file, then double-click it to run it now so your shortcuts start working without having to restart your computer.
+
+Now pressing the following keys will work.
+
+Key Combination	Description
+Win + W	Close current window
+Win + Q	Close current program
+Screenshots
+Install LightShot from https://app.prntscr.com/
+
+Right-click the Taskbar Icon then click Options. Change the General Hotkey to your desired shortcut. In my case I use Ctrl + Win + S
+
+Snippets
+Type the snippet below and then double-tab to execute
+
+Key Combination	Description
+///	Create Summary comment
+ctor	Create constructor function
+region	Create region
